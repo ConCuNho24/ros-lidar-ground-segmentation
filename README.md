@@ -49,7 +49,12 @@ Publishes:
 
 ---
 
-## Notes
+## Dataset
+The dataset is not included due to GitHub size limits.
 
-- The included rosbag file is located in the `data/` folder.
-- RViz configuration is provided in `segmentation.rviz`.
+Download here:
+https://drive.google.com/file/d/1bA6ME2rAj54cUzmAC7u63DUCkyOc1mrT/view?usp=drive_link
+
+After download:
+Place lidar.bag into:
+data/lidar.bag
